@@ -1,0 +1,8 @@
+object frmToken: TfrmToken
+  Left = 272
+  Height = 443
+  Top = 124
+  Width = 690
+  Caption = 'Copy token to clipboard'
+  LCLVersion = '2.0.10.0'
+end
